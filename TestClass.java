@@ -5,7 +5,10 @@ public class TestClass{
         varible1=v1;
         varible2=v2;
     }
-
+    /*
+        This method return a double value,
+        the product of the two varibles.
+    */
     public double getProduct(){
         return varible1*varible2;
     }
