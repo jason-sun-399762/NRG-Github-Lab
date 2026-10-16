@@ -5,4 +5,8 @@ public class TestClass{
         varible1=v1;
         varible2=v2;
     }
+
+    public double getProduct(){
+        return varible1*varible2;
+    }
 }
